@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container
+{
+    margin: 2px;
+    padding: 2px;
+    width: 15%;
+    height: 50%;
+    align-items: center;
+
+
+}
+
+.container table
+{
+    border-collapse: collapse;
+}
+
+.container th , td
+{
+    margin: 30px 31px 32px 25px;
+    padding: 4px 26px;
+    text-align: justify;
+    align-content: center;
+    font-family:sans-serif;
+
+}
