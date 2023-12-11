@@ -4,6 +4,13 @@
     box-sizing: border-box;
 }
 
+h2
+{
+    margin: 6px 9px;
+    padding: 12px 13px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
 .container
 {
     margin: 2px;
@@ -19,12 +26,12 @@
 
 .container th , td
 {
-    margin: 30px 31px 32px 25px;
-    padding: 15px 22px;
+    margin: 2px 3px;
+    padding: 16px 16px;
     font-family:verdana, sans-serif;
     text-align: justify;
     align-content: center;
-    overflow: hidden;
+    /* overflow: hidden; */
     white-space:nowrap;
 
 }
