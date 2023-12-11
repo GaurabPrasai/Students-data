@@ -7,11 +7,8 @@
 .container
 {
     margin: 2px;
-    padding: 2px;
-    width: 15%;
-    height: 50%;
+    padding: 1px;
     align-items: center;
-
 
 }
 
@@ -23,9 +20,11 @@
 .container th , td
 {
     margin: 30px 31px 32px 25px;
-    padding: 4px 26px;
+    padding: 15px 22px;
+    font-family:verdana, sans-serif;
     text-align: justify;
     align-content: center;
-    font-family:sans-serif;
+    overflow: hidden;
+    white-space:nowrap;
 
 }
